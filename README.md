@@ -1,1 +1,1 @@
-# barbershop-basic
+Верстка учебного проекта «Barbershop» для базового интенсива на [htmlacademy.ru](https://htmlacademy.ru/)
